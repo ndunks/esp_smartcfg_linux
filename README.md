@@ -45,3 +45,8 @@ smartcfg_deinit ...
 ./bin/smartcfg: done
 
 ```
+__Example With Different Interface:__
+```
+./smartcfg --address 192.168.1.9 --essid home --bssid "30:99:35:d3:0a:68" --password oranganggo
+
+```
